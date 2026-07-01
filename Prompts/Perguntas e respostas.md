@@ -1,8 +1,8 @@
-Q.1:
-Como saber meu perfil de investidor?
+# Q.1:
+### Como saber meu perfil de investidor?
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-R.1:
-Para descobrir o seu perfil de investidor, você deve realizar uma análise de seus objetivos financeiros e de sua tolerância ao risco
+# R.1:
+### Para descobrir o seu perfil de investidor, você deve realizar uma análise de seus objetivos financeiros e de sua tolerância ao risco
 . No Brasil, a Comissão de Valores Mobiliários (CVM) exige que todas as instituições financeiras apliquem um teste obrigatório chamado Questionário de Suitability ou API (Análise de Perfil do Investidor) antes de você começar a investir
 .
 Aqui estão os pontos principais para entender e descobrir o seu perfil:
@@ -38,7 +38,8 @@ O seu perfil não é imutável
 . Ele pode mudar conforme você adquire mais conhecimento, clareza sobre seus objetivos ou conforme seu momento de vida evolui
 . Por isso, recomenda-se refazer a avaliação periodicamente para garantir que seus investimentos continuem alinhados aos seus interesses atuais
 <hr style="height:3px;">
-
+# Q.2:
+### R.2:
 
 
 
