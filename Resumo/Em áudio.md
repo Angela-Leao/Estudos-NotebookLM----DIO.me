@@ -1,0 +1,1 @@
+[Como comprar seu tempo com investimentos](https://notebooklm.google.com/notebook/4c17177a-f708-4ea2-b022-abd77e7863d0/artifact/f0e206e5-d459-4045-85c2-9ec56febdf4e?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_)
