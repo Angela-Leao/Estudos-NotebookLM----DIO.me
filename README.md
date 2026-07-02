@@ -5,6 +5,8 @@
 
 
 ### Este material tem o objetivo de auxiliar iniciantes a estudar os fundamentos do mercado financeiro para aprender a investir.
+
+[NotebookLM](https://notebooklm.google.com/notebook/4c17177a-f708-4ea2-b022-abd77e7863d0)
 <hr style="height:3px;">
 ## Foram utilizadas cerca de --- fontes para a montagem do caderno, as principais são:
 
