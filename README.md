@@ -8,6 +8,7 @@
 
 [NotebookLM](https://notebooklm.google.com/notebook/4c17177a-f708-4ea2-b022-abd77e7863d0)
 <hr style="height:3px;">
+
 ## Foram utilizadas cerca de --- fontes para a montagem do caderno, as principais são:
 
 [Sicred](https://www.sicredi.com.br/site/blog/investimentos/7-conselhos-valiosos-para-investidores-iniciantes/?gad_source=1&gad_campaignid=23624713878&gbraid=0AAAAAC_4Hri81rWUNJvpEXmK9Cq9rBs0Q)
